@@ -1,5 +1,6 @@
 #the standard code 
 #v1
+#available for fair use only
 import tkinter as tk
 
 import pyaudio
