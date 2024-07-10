@@ -1,4 +1,4 @@
-#python program for speech to text 
+#Python based language Translator
 #install these libraries 
 import translate
 import speech_recognition as sr
