@@ -15,6 +15,8 @@ with microphone as source:
     audio = recognizer.listen(source)
 
 # Perform speech recognition
+
+#note:- choose the language you want your input to be translated to here
 try:
     text = recognizer.recognize_google(audio, language="hi-IN")
     print("Recognized Text (Hindi):", text)
