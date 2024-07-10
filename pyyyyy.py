@@ -1,4 +1,4 @@
-import translate
+//installimport translate
 import speech_recognition as sr
 
 # Initialize speech recognizer
